@@ -1,0 +1,1 @@
+# snowflake-cortex-rag-assistant-lab
